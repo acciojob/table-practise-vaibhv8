@@ -1,8 +1,5 @@
 /*  your css code here. If applicable */
 table{
 	background : yellow;
-}
-th, td, tr{
 	border : 1px solid black;
-	
 }
